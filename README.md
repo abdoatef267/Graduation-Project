@@ -53,7 +53,7 @@ Follow these steps to run the project locally on your machine:
 2.  **Start Servers:** Open XAMPP Control Panel and start **Apache** and **MySQL**.
 3.  **Clone the Repo:**
     ```bash
-    git clone [https://github.com/abdoatef267/Graduation-Project.git](https://github.com/abdoatef267/Graduation-Project.git)
+    git clone https://github.com/abdoatef267/Graduation-Project.git
     ```
     *(Or download the ZIP file and extract it)*.
 4.  **Move Files:** Move the project folder to `C:\xampp\htdocs\junior-store`.
